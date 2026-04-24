@@ -1,29 +1,29 @@
 # Hi, I'm Fariborz Seyedi 👋
 
-Senior .NET backend developer focused on building reliable business systems, SQL Server workflows, and practical software architecture.
+Senior .NET backend developer focused on reliable business systems, SQL Server workflows, and practical software architecture.
 
-## What I work on
+## What I build
 
-- C# / .NET backend development
-- SQL Server and data-heavy applications
-- financial and administrative software
-- desktop and web-based business tools
-- practical solutions for real operational problems
+- Backend systems with C# / .NET
+- SQL Server-driven business applications
+- Financial and administrative software
+- Desktop and web-based internal tools
+- Practical software for real-world operations
 
-## Selected projects
+## Featured work
 
-- **financial-management-api**  
-  A .NET Web API for a financial/business system with customer, product, and sales invoice management.
+### financial-management-api
+A .NET Web API for customer, product, and sales invoice workflows in a financial/business system.
 
-- **financial-management-blazor**  
-  A Blazor front-end for a financial management system built on top of a .NET Web API backend.
+### financial-management-blazor
+A Blazor application built on top of a .NET Web API backend for financial management workflows.
 
-- **sql-server-backup-restore**  
-  A C#/WPF desktop utility for backing up and restoring SQL Server databases.
+### sql-server-backup-restore
+A C#/WPF utility for SQL Server backup and restore operations.
 
-- **excel-to-sql-import-vb6**  
-  A practical Excel-to-SQL Server import tool with mapping, preview, staging, validation, rollback, and logging.
+### excel-to-sql-import-vb6
+A VB6 Excel-to-SQL Server import tool with mapping, preview, staging, validation, rollback, and detailed logging.
 
-## Engineering style
+## How I approach software
 
-I care about clear business logic, safe data workflows, maintainable code, and software that solves real problems.
+I value clear business logic, safe data workflows, maintainable code, and tools that solve real operational problems.
