@@ -10,6 +10,11 @@ Senior .NET backend developer focused on reliable business systems, SQL Server w
 - Desktop and web-based internal tools
 - Practical software for real-world operations
 
+## Tech stack
+
+**Main:** C#, .NET, ASP.NET Core, SQL Server  
+**Also used:** Blazor, WPF, VB6
+
 ## Featured work
 
 ### financial-management-api
